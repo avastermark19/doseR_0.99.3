@@ -1,3 +1,5 @@
+# clone
+
 require(edgeR)
 
 #' An S4 class that stores count data.
